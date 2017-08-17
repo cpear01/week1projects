@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VariablesOperatorsaExpressions\VariablesOperatorsaExpressions\bin\Debug\VariablesOperatorsaExpressions.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VariablesOperatorsaExpressions\VariablesOperatorsaExpressions\bin\Debug\VariablesOperatorsaExpressions.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VariablesOperatorsaExpressions\VariablesOperatorsaExpressions\bin\Debug\VariablesOperatorsaExpressions.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VariablesOperatorsaExpressions\VariablesOperatorsaExpressions\obj\Debug\VariablesOperatorsaExpressions.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VariablesOperatorsaExpressions\VariablesOperatorsaExpressions\obj\Debug\VariablesOperatorsaExpressions.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\VariablesOperatorsaExpressions\VariablesOperatorsaExpressions\obj\Debug\VariablesOperatorsaExpressions.csprojResolveAssemblyReference.cache
